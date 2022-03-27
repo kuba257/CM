@@ -1,0 +1,5 @@
+﻿  mo1.cpp
+D:\Zajęcia\Metody obliczeniowe\Vs\mo1\mo1\mo1.cpp(13,26): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+D:\Zajęcia\Metody obliczeniowe\Vs\mo1\mo1\mo1.cpp(19,20): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+D:\Zajęcia\Metody obliczeniowe\Vs\mo1\mo1\mo1.cpp(34,21): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  mo1.vcxproj -> D:\Zajęcia\Metody obliczeniowe\Vs\mo1\Debug\mo1.exe
